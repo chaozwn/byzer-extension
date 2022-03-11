@@ -1,0 +1,16 @@
+moduleName=mlsql-linkflow
+mainClass=tech.mlsql.plugins.ds.MLSQLLinkflow
+scala_version=2.12
+spark_version=3.0
+version=0.1.0-SNAPSHOT
+author=jayce
+mlsqlVersions=""
+githubUrl=""
+mlsqlPluginType=ds
+desc=linkflow_push
+
+
+
+
+
+

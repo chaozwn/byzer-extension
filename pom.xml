@@ -19,18 +19,19 @@
         <module>ds-hbase-2x</module>
         <module>save-then-load</module>
         <module>connect-persist</module>
-        <module>mlsql-bigdl</module>
+<!--        <module>mlsql-bigdl<//module>-->
         <module>mlsql-excel</module>
         <module>mlsql-analysis-toolkit</module>
         <module>mlsql-mllib</module>
         <module>mlsql-ds</module>
         <module>mlsql-shell</module>
-        <module>mlsql-ke</module>
+<!--        <module>mlsql-ke</module>-->
         <module>mlsql-assert</module>
         <module>mlsql-canal</module>
         <module>mlsql-language-server</module>
         <module>mlsql-ext-ets</module>
         <module>mlsql-cli</module>
+        <module>mlsql-linkflow</module>
     </modules>
     <name>MLSQL Plugins</name>
     <url>https://github.com/allwefantasy/mlsql-plugins.git</url>
